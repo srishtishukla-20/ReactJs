@@ -1,0 +1,26 @@
+{
+    "car_user": [
+        {
+            "678": {
+                "vehicle_number": 678,
+                "vehicle_type": "bus",
+                "large_spots_number": 0,
+                "inTime": "Fri Feb  4 12:22:35 2022"
+            }
+        },
+        {
+            "678": {
+                "vehicle_number": 890,
+                "vehicle_type": "bus",
+                "large_spots_number": 0,
+                "inTime": "Fri Feb  4 12:22:52 2022"
+            },
+            "890": {
+                "vehicle_number": 890,
+                "vehicle_type": "bus",
+                "large_spots_number": 0,
+                "inTime": "Fri Feb  4 12:22:52 2022"
+            }
+        }
+    ]
+}
